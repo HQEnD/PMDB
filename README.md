@@ -204,15 +204,15 @@
 Описує всі процедури, пов&#39;язані з установкою і налаштуванням ПЗ, необхідні для встановлення сервісів компанії.
 
 ## Юз-кейси
-![](https://i.imgur.com/p2Mazaf.jpg)
+![](https://i.imgur.com/t2gYLZ0.png)
 
-![](https://i.imgur.com/C5ocHft.jpg)
+![](https://i.imgur.com/23YVOP3.jpg)
 
-![](https://i.imgur.com/RNSIvLb.jpg)
+![](https://i.imgur.com/V8o6xxh.jpg)
 
-![](https://i.imgur.com/3FJwzSl.jpg)
+![](https://i.imgur.com/MsGidQp.jpg)
 
-![](https://i.imgur.com/pNV7Act.jpg)
+![](https://i.imgur.com/xzHqAFn.jpg)
 
 ## Співробітники:
 
